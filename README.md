@@ -35,7 +35,6 @@
     <th><a><img src="Images/pandas2.png" height="64" width="68"></a></th>
     <th><a><img src="Images/numpy-icon.svg" height="64" width="64"></a></th>
     <th><a><img src="Images/scikit-learn2.svg" height="64" width="64"></a></th>
-
     <th><a><img src="Images/tensorflow-icon.svg" height="64" width="64"></a></th>
     <th><a><img src="Images/pytorch-icon.svg" height="64" width="64"></a></th> 
     <th><a><img src="Images/keras.svg" height="64" width="64"></a></th>
@@ -47,7 +46,6 @@
     <th>Pandas</th>
     <th>Numpy</th>
     <th>Scikit-Learn</th>
-    <th>Seaborn</th>
     <th>Tensorflow</th>
     <th>PyTorch</th>
     <th>Keras</th>
