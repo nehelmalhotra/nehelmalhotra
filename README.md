@@ -12,7 +12,7 @@
   <tr>
     <th><a><img src="Images/python-icon.svg"></a></th>
     <th><a><img src="Images/sql.svg" height="64" width="64"></a></th>
-    <th><a><img src="Images/Git-icon.svg" height="64" width="64"></a></th>
+    <th><a><img src="Images/Git_icon.svg" height="64" width="64"></a></th>
     <th><a><img src="Images/html.svg" height="64" width="64"></a></th>
     <th><a><img src="Images/css-3.svg" height="64" width="64"></a></th>
     <th><a><img src="Images/C++.svg" height="64" width="64"></a></th>
@@ -61,7 +61,7 @@
     <th><a><img src="Images/matplotlib.svg" height="64" width="64"></a></th>
     <th><a><img src="Images/seaborn2.svg" height="64" width="64"></a></th>
     <th><a><img src="Images/flask.png" height="64" width="64"></a></th>
-    <th><a><img src="Images/powerbi.svg" height="64" width="64"></a></th>
+    <th><a><img src="Images/powerbi.png" height="64" width="64"></a></th>
     <th><a><img src="Images/tableau-icon.svg" height="64" width="64"></a></th>
   </tr>
   <tr>
