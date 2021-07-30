@@ -1,4 +1,4 @@
-# Hello and Welcome to My Github Profile 👋 
+## Hello and Welcome to My Github Profile 👋 
 - 👨‍🎓 I’m currently a graduate student at University of Toronto studying <b>Data Science</b>, and <b>Machine learning</b> and will be graduating in December 2021.
 - 💼 I'm' currently working as an intern, applying <b> ML </b> in the real estate industry.
 - 🕵️ Here you will find my current and ongoing projects related to Data Analysis, Machine Learning and Deep Learning.
